@@ -354,17 +354,20 @@ i {
 }
 
 #zero-state {
+  font-family: 'Arial', sans-serif;
+  font-size: 1.3rem;
   margin: 2rem auto;
   text-align: center;
   color: #818181;
 }
 
 #zero-state a {
-  color: inherit;
+  color: #00cccc;
 }
 
 #zero-state a:hover {
-  color: #121212;
+  text-decoration: none;
+  color: #00cc00;
 }
 
 #zero-state:before {
